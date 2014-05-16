@@ -1,9 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+##
 ## Author: Andre Dias
 ## Date: 2014-05-15
 ## File: cacheMatrix.R
 ## Description: Pair of functions that cache the inverse of a matrix.
+##
 
 
 ## This function creates a special "matrix" object that can cache its inverse.
