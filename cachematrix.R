@@ -1,6 +1,6 @@
 ##
 ## Author: Andre Dias
-## Date: 2014-05-15
+## Date: 2014-06-12
 ## File: cacheMatrix.R
 ## Description: Pair of functions that cache the inverse of a matrix.
 ##
